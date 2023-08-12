@@ -1,0 +1,46 @@
+.feedbackContainer {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #979393;
+  border-radius: 8px;
+  background-color: #f5efefb7;
+}
+
+.feedbackColectorContainer {
+  text-align: center;
+}
+
+.feedbackColectorHeader {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.feedbackColectorButton {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.feedbackColectorButton:hover {
+  background-color: #0056b3;
+}
+
+.statisticContainer {
+  margin-top: 20px;
+}
+
+.statHeader {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.statValue {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
